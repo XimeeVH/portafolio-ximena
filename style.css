@@ -1,0 +1,57 @@
+#img-perfil {
+    width: 250px;
+}
+
+
+#img-stack {
+    width: 200px;
+}
+
+.bg-primary {
+    background-color:#cf8b64!important;
+}
+
+.nav-link {
+    color:#e23f17!important;
+}
+
+.text-bg-primary {
+    background-color:#6981e9!important;
+}
+
+.text-bg-info {
+    background-color:rgb(67, 193, 231)!important;
+}
+
+#proyecto-1 {
+    background-image: url('imagenes/computadora.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#proyecto-2 {
+    background-image: url('imagenes/color.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.9;
+}
+
+#proyecto-3 {
+    background-image: url('imagenes/goo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.9;
+}
+
+
+#proyecto-4 {
+    background-image: url('imagenes/color.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.9;
+}
+
